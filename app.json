@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "appvaz",
+    "slug": "appvaz",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
